@@ -1,7 +1,17 @@
 # Coffee Chain Profitability & Budget Performance
 
-I built this Tableau dashboard to answer three questions: Are we meeting our profit budget? Which products account for the biggest gaps? How do profit margins vary across markets?
+I built this interactive Tableau dashboard to show whether a coffee chain met its profit budget and where the biggest gaps appeared. It uses 4,248 records from a course dataset covering 2012–2013.
 
-The dashboard shows total sales, total profit, profit margin, and the dollar amount above or below budget. Monthly profit and budget lines show when gaps opened, while the product and market charts help explain where to look next.
+![Tableau dashboard showing monthly profit against budget, product variances, and market margins](dashboard.png)
 
-In the all-years view, the chain reported $819,811 in sales and $259,543 in profit, a 31.66% margin. Profit was $783 above budget overall, even though several products were below budget.
+## Key findings
+
+- **The chain finished just above budget.** Actual profit was $259,543 against a budget of $258,760, a positive variance of $783. Total sales were $819,811, with a 31.66% profit margin.
+- **The overall result hid larger product differences.** Earl Grey beat its profit budget by $6,564, while Caffe Mocha fell $5,602 short.
+- **Margins varied by market.** Central led at 35.4%, while West had the lowest margin at 27.2%.
+
+## How to explore the dashboard
+
+Use the year filter to compare periods. Select a market or product bar to narrow the view and see how the monthly trend and KPIs change.
+
+Profit variance is actual profit minus budget profit. Profit margin is total profit divided by total sales.
