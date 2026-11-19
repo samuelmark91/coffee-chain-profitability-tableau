@@ -2,7 +2,8 @@
 
 I built this interactive Tableau dashboard to show whether a coffee chain met its profit budget and where the biggest gaps appeared. It uses 4,248 records from a course dataset covering 2012–2013.
 
-![Tableau dashboard showing monthly profit against budget, product variances, and market margins](dashboard.png)
+<img width="594" height="418" alt="image" src="https://github.com/user-attachments/assets/143ed56a-4de4-4905-99e4-baf4d94e499a" />
+
 
 ## Key findings
 
